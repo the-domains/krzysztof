@@ -1,0 +1,29 @@
+name: krzysztof
+favicon: null
+layout_spectrum: 0.4041186405811459
+typography_spectrum: 0.39546399866230786
+title: krzysztof switonski / marketing consultant
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.2917022292967886
+  lightness: 0.22561991051770747
+  saturation: 0.9449371783994138
+  rhythmicContrast: 0.16854568058624864
+purpose: []
